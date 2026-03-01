@@ -54,7 +54,7 @@ legend {                    /* Estiliza o título do fieldset */
   color: #4a148c;           /* Cor roxa */
 }
 
-input#nome {                /* Estiliza o input com id nome */
+input#nome, input#email, input#whatsapp, textarea {                /* Estiliza o input*/
   width: 95%;               /* Largura quase total */
   padding: 12px;            /* Espaço interno do campo */
   font-size: 18px;          /* Tamanho do texto dentro do input */
